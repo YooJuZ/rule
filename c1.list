@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,capitalone.com
 DOMAIN,capitaloneservices.demdex.net
 DOMAIN,capitaloneservices.tt.omtrdc.net
 DOMAIN,capitalone-udc.digital-cloud.medallia.com
-DOMAIN-SUFFIX,omtrdc.net
 DOMAIN,capitalone-resources.digital-cloud.medallia.com        //   Added for: capitalone-resources.digital-cloud.medallia.com:443
 DOMAIN,capitalone-udc.digital-cloud.medallia.com             // Added for: capitalone-udc.digital-cloud.medallia.com:443
 DOMAIN,mobile-collector.newrelic.com                        // Added for: mobile-collector.newrelic.com:443
