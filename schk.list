@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX,sc.com                  // Added for: svc2.sc.com:8080
-DOMAIN,standchartbank.tt.omtrdc.net  // Added for: standchartbank.tt.omtrdc.net:443
-DOMAIN,online.standardchartered.com // Added for: online.standardchartered.com:443
+DOMAIN-SUFFIX,sc.com                           // Added for: svc2.sc.com:8080
+DOMAIN,standchartbank.tt.omtrdc.net           // Added for: standchartbank.tt.omtrdc.net:443
+DOMAIN,standchartbank.sc.omtrdc.net          // Added for: standchartbank.sc.omtrdc.net:443
+DOMAIN,online.standardchartered.com         // Added for: online.standardchartered.com:443
