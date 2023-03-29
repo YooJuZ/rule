@@ -49,3 +49,4 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN,content-storage-upload.googleapis.com
+DOMAIN-SUFFIX,us-east-1.amazonaws.com
