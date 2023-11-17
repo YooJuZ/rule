@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,split.io // Added for: streaming.split.io:443
+DOMAIN-SUFFIX,zimperium.com // Added for: cdn.zimperium.com:443
+DOMAIN-SUFFIX,split.io // Added for: auth.split.io:443
+DOMAIN-SUFFIX,chasecdn.com // Added for: static.chasecdn.com:443
+DOMAIN-SUFFIX,demdex.net // Added for: dpm.demdex.net:443
+DOMAIN-SUFFIX,chase.com // Added for: analytics.chase.com:443
