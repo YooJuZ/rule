@@ -1,0 +1,4 @@
+IP-ASN,26381  // hsbc us
+DOMAIN-SUFFIX,us.hsbc.com// Added for: rbwm-api.us.hsbc.com:443
+DOMAIN,status.mobilex.vpc.hsbc.co.uk // Added for: status.mobilex.vpc.hsbc.co.uk:443
+DOMAIN-SUFFIX,us.hsbc.com // Added for: www.us.hsbc.com:443
