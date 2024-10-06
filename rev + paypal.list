@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,revolutlabs.com // Added for: aqueduct.revolutlabs.com:443
 DOMAIN-SUFFIX,revolut.com // Added for: chat.revolut.com:443
+
+DOMAIN-SUFFIX,paypalobjects.com // Added for: www.paypalobjects.com:443
+DOMAIN-SUFFIX,paypal.com // Added for: api-m.paypal.com:443
