@@ -7,3 +7,5 @@ DOMAIN,capitalone-resources.digital-cloud.medallia.com        //   Added for: ca
 DOMAIN,capitalone-udc.digital-cloud.medallia.com             // Added for: capitalone-udc.digital-cloud.medallia.com:443
 DOMAIN,mobile-collector.newrelic.com                        // Added for: mobile-collector.newrelic.com:443
 DOMAIN,capitalone-udc.digital-cloud.medallia.com           // Added for: capitalone-udc.digital-cloud.medallia.com:443
+DOMAIN-SUFFIX,capitalone360.com // Added for: secure.capitalone360.com:443
+DOMAIN-SUFFIX,capitalone.com // Added for: uba.capitalone.com:443
