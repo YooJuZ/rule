@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,split.io // Added for: auth.split.io:443
 DOMAIN-SUFFIX,chasecdn.com // Added for: static.chasecdn.com:443
 DOMAIN-SUFFIX,demdex.net // Added for: dpm.demdex.net:443
 DOMAIN-SUFFIX,chase.com // Added for: analytics.chase.com:443
+DOMAIN-SUFFIX,safe.chasepaymentechhostedpay.com // Added for: safe.chasepaymentechhostedpay.com:443
