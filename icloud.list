@@ -56,3 +56,4 @@ DOMAIN,ap-jpn-00001.s3.dualstack.ap-northeast-1.amazonaws.com
 DOMAIN,us-std-00001.s3.dualstack.us-east-1.amazonaws.com
 DOMAIN,ap-sin-00001.s3.dualstack.ap-southeast-1.amazonaws.com
 DOMAIN,eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
+DOMAIN-SUFFIX,icloud-sandbox.com
