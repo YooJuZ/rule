@@ -1,8 +1,8 @@
-gs.apple.com
-ig.apple.com
-gg.apple.com
-xp.apple.com
-gsra.apple.com
-wkms-public.apple.com
-skl.apple.com
-fcs-keys-pub-prod.cdn-apple.com
+DOMAIN-SUFFIX,gs.apple.com
+DOMAIN-SUFFIX,ig.apple.com
+DOMAIN-SUFFIX,gg.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,gsra.apple.com
+DOMAIN-SUFFIX,wkms-public.apple.com
+DOMAIN-SUFFIX,skl.apple.com
+DOMAIN-SUFFIX,fcs-keys-pub-prod.cdn-apple.com
