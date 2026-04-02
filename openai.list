@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,openai.com
 # TOTAL: 29
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
